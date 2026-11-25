@@ -6,19 +6,19 @@ Sri Lanka roadside-assistance concept: a responsive one-page landing site (HTML,
 
 ```
 FixMyRide/
-├── index.html            ← page skeleton (each member's HTML sits between MEMBER N START / END markers)
+├── index.html            
 ├── css/
-│   ├── base.css          ← Member 1
-│   ├── hero.css          ← Member 2
-│   ├── features.css      ← Member 3
-│   ├── gallery-team.css  ← Member 4
-│   └── form-footer.css   ← Member 5
+│   ├── base.css          
+│   ├── hero.css          
+│   ├── features.css      
+│   ├── gallery-team.css  
+│   └── form-footer.css   
 ├── js/
-│   ├── nav.js            ← Member 1
-│   ├── splash.js         ← Member 2
-│   ├── animations.js     ← Member 3
-│   └── form.js           ← Member 5
-└── images/               ← logo, mockups, screenshots, team photos
+│   ├── nav.js            
+│   ├── splash.js         
+│   ├── animations.js     
+│   └── form.js           
+└── images/               
 ```
 
 ## Team responsibilities
